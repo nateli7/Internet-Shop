@@ -1,3 +1,3 @@
 # Internet-Shop
 
-Check it [here] (http://ekaterina-kaschenko.github.io/Internet-Shop/)
+Check it [here] (https://github.com/nateli7/Internet-Shop)
