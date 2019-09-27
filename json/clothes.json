@@ -1,0 +1,189 @@
+{
+  "coat": [
+    {
+      "name": "Men Coat",
+      "img": [
+        "img/men-clother/men-coats/1/1.jpg",
+        "img/men-clother/men-coats/1/2.jpg",
+        "img/men-clother/men-coats/1/3.jpg",
+        "img/men-clother/men-coats/1/4.jpg"
+      ],
+      "color": "One Color",
+      "src": "img/men-clother/men-coats/1/1.jpg",
+      "price": "99.95",
+      "Article_number": "15268390498",
+      "id": "coat1",
+      "size": ["S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi nihil atque ducimus debitis nulla expedita pariatur. Dolorem vero repudiandae, delectus incidunt tenetur dolores fuga, reiciendis, magnam iusto voluptatum assumenda natus."
+    },
+    {
+      "name": "Men Coat",
+      "img": [
+        "img/men-clother/men-coats/2/1.jpg",
+        "img/men-clother/men-coats/2/2.jpg",
+        "img/men-clother/men-coats/2/3.jpg",
+        "img/men-clother/men-coats/2/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "69.95",
+      "Article_number": "57920474958",
+      "id": "coat2",
+      "size": ["XS","S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, fuga, asperiores. Placeat pariatur, aspernatur ullam tempore repellendus tempora assumenda recusandae tenetur sunt quos a doloribus explicabo inventore, voluptatem accusamus aperiam."
+    },
+    {
+      "name": "Men Coat",
+      "img": [
+        "img/men-clother/men-coats/3/1.jpg",
+        "img/men-clother/men-coats/3/2.jpg",
+        "img/men-clother/men-coats/3/3.jpg",
+        "img/men-clother/men-coats/3/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "50.95",
+      "Article_number": "28403847",
+      "id": "coat3",
+      "size": ["S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur illo illum laborum molestiae minus voluptate nobis nihil fugiat, sit aut hic eaque quisquam obcaecati sapien te est, saepe aperiam dolores explicabo!"
+    },
+    {
+      "name": "Men Coat",
+      "img": [
+        "img/men-clother/men-coats/4/1.jpg",
+        "img/men-clother/men-coats/4/2.jpg",
+        "img/men-clother/men-coats/4/3.jpg",
+        "img/men-clother/men-coats/4/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "78.95",
+      "Article_number": "2748003755",
+      "id": "coat4",
+      "size": ["XS","S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas eligendi quam dolorem perferendis adipisci officia ea voluptatibus ab eum inventore, sequi nam laborum, corporis nihil. Odit qui molestiae facere, ipsum."
+    }
+  ],
+  "outerwear": [
+    {
+      "name": "Outerwear for Men",
+      "img": [
+        "img/men-clother/men-outwear/1/1.jpg",
+        "img/men-clother/men-outwear/1/2.jpg",
+        "img/men-clother/men-outwear/1/3.jpg",
+        "img/men-clother/men-outwear/1/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "85.95",
+      "Article_number": "394965938475",
+      "id": "outerwear1",
+      "size": ["S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex iusto dignissimos praesentium, possimus velit soluta, officiis laboriosam distinctio cupiditate. Sed eius aspernatur sit sequi culpa neque officia, eveniet nostrum itaque."
+    },
+    {
+      "name": "Outerwear for Men",
+      "img": [
+        "img/men-clother/men-outwear/2/1.jpg",
+        "img/men-clother/men-outwear/2/2.jpg",
+        "img/men-clother/men-outwear/2/3.jpg",
+        "img/men-clother/men-outwear/2/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "59.95",
+      "Article_number": "74757691628",
+      "id": "outerwear2",
+      "size": ["S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint blanditiis explicabo temporibus eligendi vero eius sed quidem rem error sunt cupiditate magni enim quas necessitatibus iure facere, totam unde, possimus!"
+    },
+    {
+      "name": "Outerwear for Men",
+      "img": [
+        "img/men-clother/men-outwear/3/1.jpg",
+        "img/men-clother/men-outwear/3/2.jpg",
+        "img/men-clother/men-outwear/3/3.jpg",
+        "img/men-clother/men-outwear/3/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "63.95",
+      "Article_number": "33848504849",
+      "id": "outerwear3",
+      "size": ["S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint blanditiis explicabo temporibus eligendi vero eius sed quidem rem error sunt cupiditate magnienim quas necessitatibus iure facere, totam unde, possimus!"
+    },
+    {
+      "name": "Outerwear for Men",
+      "img": [
+        "img/men-clother/men-outwear/4/1.jpg",
+        "img/men-clother/men-outwear/4/2.jpg",
+        "img/men-clother/men-outwear/4/3.jpg",
+        "img/men-clother/men-outwear/4/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "82.95",
+      "Article_number": "263748958732",
+      "id": "outerwear4",
+      "size": ["XS","S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint blanditiis explicabo temporibus eligendi vero eius sed quidem rem error sunt cupiditate magnienim quas necessitatibus iure facere, totam unde, possimus!"
+    }
+  ],
+  "t_shirt": [
+    {
+      "name": "T-shirt",
+      "img": [
+        "img/men-clother/men-t-shirts/1/1.jpg",
+        "img/men-clother/men-t-shirts/1/2.jpg",
+        "img/men-clother/men-t-shirts/1/3.jpg",
+        "img/men-clother/men-t-shirts/1/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "47.95",
+      "Article_number": "284756928326",
+      "id": "t_shirts1",
+      "size": ["S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam doloribus rem, eos, quo optio odit, voluptas quis possimus voluptates vero ea, esse nemo dolores ut. Consequatur, voluptatem minus doloribus reiciendis."
+    },
+    {
+      "name": "T-shirt",
+      "img": [
+        "img/men-clother/men-t-shirts/2/1.jpg",
+        "img/men-clother/men-t-shirts/2/2.jpg",
+        "img/men-clother/men-t-shirts/2/3.jpg",
+        "img/men-clother/men-t-shirts/2/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "39.95",
+      "Article_number": "923894987543",
+      "id": "t_shirts2",
+      "size": ["XS","S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos expedita suscipit, magni iusto, eius omnis consequatur quis quisquam repellendus error rem eum quidem, aut minus doloribus eligendi. Quos, veniam, commodi."
+    },
+    {
+      "name": "T-shirt",
+      "img": [
+        "img/men-clother/men-t-shirts/3/1.jpg",
+        "img/men-clother/men-t-shirts/3/2.jpg",
+        "img/men-clother/men-t-shirts/3/3.jpg",
+        "img/men-clother/men-t-shirts/3/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "49.95",
+      "Article_number": "89758989698",
+      "id": "t_shirts3",
+      "size": ["S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, doloribus! Quis optio dignissimos ipsum, aliquid ipsa corporis est vel nam nostrum odio dolorem amet assumenda pariatur non ut labore voluptatum."
+    },
+    {
+      "name": "T-shirt",
+      "img": [
+        "img/men-clother/men-t-shirts/4/1.jpg",
+        "img/men-clother/men-t-shirts/4/2.jpg",
+        "img/men-clother/men-t-shirts/4/3.jpg",
+        "img/men-clother/men-t-shirts/4/4.jpg"
+      ],
+      "color": "One Color",
+      "price": "58.95",
+      "Article_number": "2387894738593",
+      "id": "t_shirts4",
+      "size": ["XS","S","M","L"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum, aperiam enim, sapiente amet necessitatibus, qui illum dignissimos alias est ab itaque similique? Ea deserunt omnis suscipit dolor dolorem minus nulla."
+    }
+  ]
+}
